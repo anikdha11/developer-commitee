@@ -11,7 +11,7 @@ const Member = (props) => {
             <h3>Company: {company}</h3>
             <h4>Gender: {gender}</h4>
             <h4>Age: {age}</h4>
-            <h4>Salary: {salary}</h4>
+            <h4>Salary: ${salary}</h4>
             <p><small>Email: {email}</small></p>
          
             <button onClick={() => props.handleAddMember(props.worker)}><i class="fas fa-cart-plus"></i> Add to cart</button>
