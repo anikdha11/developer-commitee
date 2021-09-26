@@ -1,0 +1,27 @@
+.member{
+    border: 2px solid rgb(116, 189, 207);
+    text-align: center;
+    background-color: rgb(116, 189, 207);
+    border-radius: 5px; 
+    padding: 20px;
+}
+.member:hover{
+   border: 3px dotted rgb(73, 100, 219);
+   background-color: rgb(112, 158, 196);
+}
+.member button{
+    margin-bottom: 5px;
+    background-color: rgb(233, 70, 70);
+    color: white;
+    padding: 5px;
+    font-size: 15px;
+    border-radius: 5px;
+    border:2px solid rgba(175, 112, 112, 0.781);
+    cursor: pointer;
+}
+.member button:hover{
+    border: 3px double rgba(255, 255, 255, 0.678);
+}
+.name{
+    color: rgb(250, 245, 250);
+}

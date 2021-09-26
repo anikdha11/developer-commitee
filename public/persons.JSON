@@ -1,0 +1,112 @@
+[
+    {
+      "_id": "614fce7355526d6ecb72b560",
+      "picture": "https://randomuser.me/api/portraits/med/men/52.jpg",
+      "age": 33,
+      "name": "Hatfield Barnett",
+      "gender": "male",
+      "company": "CINCYR",
+      "email": "hatfieldbarnett@cincyr.com",
+      "salary":"4500"
+    },
+    {
+      "_id": "614fce73901d1fd79b8f19dd",
+      "picture": "https://randomuser.me/api/portraits/med/men/29.jpg",
+      "age": 27,
+      "name": "Howard Sexton",
+      "gender": "male",
+      "company": "DREAMIA",
+      "email": "howardsexton@dreamia.com",
+      "salary":"2400"
+    },
+    {
+      "_id": "614fce73eb0d45b05293feb8",
+      "picture": "https://randomuser.me/api/portraits/med/men/26.jpg",
+      "age": 40,
+      "name": "Jensen Mann",
+      "gender": "male",
+      "company": "STREZZO",
+      "email": "jensenmann@strezzo.com",
+      "salary":"3500"
+    },
+    {
+      "_id": "614fce730dc4be6827fb12e6",
+      "picture": "https://randomuser.me/api/portraits/med/women/31.jpg",
+      "age": 27,
+      "name": "Dona Rice",
+      "gender": "female",
+      "company": "PORTICO",
+      "email": "donarice@portico.com",
+      "salary":"3100"
+    },
+    {
+      "_id": "614fce73f5aead45c453d7d6",
+      "picture": "https://randomuser.me/api/portraits/med/women/44.jpg",
+      "age": 38,
+      "name": "Ann Douglas",
+      "gender": "female",
+      "company": "XLEEN",
+      "email": "anndouglas@xleen.com",
+      "salary":"2200"
+    },
+    {
+      "_id": "614fce73084dce80c4db1a19",
+      "picture": "https://randomuser.me/api/portraits/med/women/12.jpg",
+      "age": 36,
+      "name": "Sabrina Rogers",
+      "gender": "female",
+      "company": "LIQUICOM",
+      "email": "sabrinarogers@liquicom.com",
+      "salary":"2000"
+    },
+    {
+      "_id": "614fce7367d8466a9a70ca2b",
+      "picture": "https://randomuser.me/api/portraits/med/women/5.jpg",
+      "age": 25,
+      "name": "Mariana William",
+      "gender": "female",
+      "company": "NAMEBOX",
+      "email": "marianawilliam@na.com",
+      "salary":"1500"
+    },
+    {
+      "_id": "614fce737b30f54783b1de57",
+      "picture": "https://randomuser.me/api/portraits/med/men/27.jpg",
+      "age": 28,
+      "name": "Floyd Rodgers",
+      "gender": "male",
+      "company": "TELPOD",
+      "email": "floydrodgers@telpod.com",
+      "salary":"1400"
+    },
+    {
+      "_id": "614fce7300bbfb235adb0944",
+      "picture": "https://randomuser.me/api/portraits/med/men/62.jpg",
+      "age": 27,
+      "name": "Hickman Clark",
+      "gender": "male",
+      "company": "ZENTIA",
+      "email": "hickmanclark@zentia.com",
+      "salary":"1250"
+    },
+    {
+      "_id": "614fce73f353562b9d31aff4",
+      "picture": "https://randomuser.me/api/portraits/med/women/28.jpg",
+      "age": 34,
+      "name": "Delgado Cain",
+      "gender": "male",
+      "company": "UBERLUX",
+      "email": "delgadocain@uberlux.com",
+      "salary":"1000"
+    },
+    {
+      "_id": "614fce7332c1fc1b3a37c337",
+      "picture": "https://randomuser.me/api/portraits/med/women/95.jpg",
+      "age": 35,
+      "name": "Francisca Zimmerman",
+      "gender": "female",
+      "company": "MEMORA",
+      "email": "franciscazimme@memora.com",
+      "salary":"500"
+    }
+  ]
