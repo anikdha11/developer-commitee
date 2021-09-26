@@ -7,8 +7,5 @@
 # You can see some Webdeveloper profile.
 # You can contact with them..
 # add some hover effect, that's look great..
-  Hopefully, You like it..
-
-# That's it..
-
+# Hopefully, You like it..
 #Thanks
