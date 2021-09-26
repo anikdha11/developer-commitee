@@ -4,10 +4,12 @@
     background-color: rgb(116, 189, 207);
     border-radius: 5px; 
     padding: 20px;
+    color: rgb(48, 44, 38);
 }
 .member:hover{
    border: 3px dotted rgb(73, 100, 219);
    background-color: rgb(112, 158, 196);
+   color: rgb(211, 210, 136);
 }
 .member button{
     margin-bottom: 5px;
@@ -20,8 +22,17 @@
     cursor: pointer;
 }
 .member button:hover{
-    border: 3px double rgba(255, 255, 255, 0.678);
+    border: 3px double rgb(42, 41, 43);
+    color: black;
 }
-.name{
+.title-name{
     color: rgb(250, 245, 250);
+}
+.link a{
+    font-size: 25px;
+    margin-right: 10px;
+    color: rgb(250, 248, 248);
+}
+.link a:hover{
+    color: red;
 }

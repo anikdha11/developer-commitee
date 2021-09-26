@@ -1,8 +1,15 @@
 .header{
-    background-color: rgba(179, 204, 207, 0.849);
+    background-color: rgba(17, 16, 17, 0.849);
     padding: 1px;
     text-align: center;
+    margin-bottom: 5px;
 }
 .title{
-    color: rgba(189, 20, 231, 0.733);   
+    color: rgba(255, 7, 7, 0.733);   
+}
+h1{
+    color: blanchedalmond;
+}
+.second-title{
+    color: rgb(243, 218, 75);
 }
